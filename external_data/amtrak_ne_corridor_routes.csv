@@ -1,0 +1,59 @@
+origin_airport,destination_airport,rail_available,rail_service,avg_rail_duration_hrs,avg_rail_fare_usd,rail_corridor
+BOS,JFK,Yes,Amtrak Acela/NE Regional,3.8,49,Northeast Corridor
+BOS,LGA,Yes,Amtrak Acela/NE Regional,3.8,49,Northeast Corridor
+BOS,EWR,Yes,Amtrak Acela/NE Regional,3.5,45,Northeast Corridor
+BOS,PHL,Yes,Amtrak Acela/NE Regional,5.2,59,Northeast Corridor
+BOS,BWI,Yes,Amtrak Acela/NE Regional,6.5,72,Northeast Corridor
+BOS,DCA,Yes,Amtrak Acela/NE Regional,6.8,79,Northeast Corridor
+JFK,PHL,Yes,Amtrak NE Regional,1.5,35,Northeast Corridor
+JFK,BWI,Yes,Amtrak Acela/NE Regional,2.8,49,Northeast Corridor
+JFK,DCA,Yes,Amtrak Acela/NE Regional,3.2,59,Northeast Corridor
+JFK,EWR,Yes,NJ Transit/Amtrak,0.5,15,Northeast Corridor
+JFK,BOS,Yes,Amtrak Acela/NE Regional,3.8,49,Northeast Corridor
+LGA,PHL,Yes,Amtrak NE Regional,1.8,35,Northeast Corridor
+LGA,BWI,Yes,Amtrak NE Regional,2.8,49,Northeast Corridor
+LGA,DCA,Yes,Amtrak Acela/NE Regional,3.2,59,Northeast Corridor
+LGA,EWR,Yes,NJ Transit,0.4,13,Northeast Corridor
+LGA,BOS,Yes,Amtrak Acela/NE Regional,3.8,49,Northeast Corridor
+EWR,PHL,Yes,Amtrak NE Regional,1.2,29,Northeast Corridor
+EWR,BWI,Yes,Amtrak NE Regional,2.2,39,Northeast Corridor
+EWR,DCA,Yes,Amtrak Acela/NE Regional,2.8,49,Northeast Corridor
+EWR,BOS,Yes,Amtrak Acela/NE Regional,3.5,45,Northeast Corridor
+EWR,JFK,Yes,NJ Transit/Amtrak,0.5,15,Northeast Corridor
+EWR,LGA,Yes,NJ Transit,0.4,13,Northeast Corridor
+PHL,BWI,Yes,Amtrak NE Regional,1.2,25,Northeast Corridor
+PHL,DCA,Yes,Amtrak Acela/NE Regional,1.8,35,Northeast Corridor
+PHL,JFK,Yes,Amtrak NE Regional,1.5,35,Northeast Corridor
+PHL,LGA,Yes,Amtrak NE Regional,1.8,35,Northeast Corridor
+PHL,EWR,Yes,Amtrak NE Regional,1.2,29,Northeast Corridor
+PHL,BOS,Yes,Amtrak Acela/NE Regional,5.2,59,Northeast Corridor
+BWI,DCA,Yes,Amtrak/MARC,0.8,15,Northeast Corridor
+BWI,PHL,Yes,Amtrak NE Regional,1.2,25,Northeast Corridor
+BWI,JFK,Yes,Amtrak NE Regional,2.8,49,Northeast Corridor
+BWI,LGA,Yes,Amtrak NE Regional,2.8,49,Northeast Corridor
+BWI,EWR,Yes,Amtrak NE Regional,2.2,39,Northeast Corridor
+BWI,BOS,Yes,Amtrak Acela/NE Regional,6.5,72,Northeast Corridor
+DCA,BWI,Yes,Amtrak/MARC,0.8,15,Northeast Corridor
+DCA,PHL,Yes,Amtrak Acela/NE Regional,1.8,35,Northeast Corridor
+DCA,JFK,Yes,Amtrak Acela/NE Regional,3.2,59,Northeast Corridor
+DCA,LGA,Yes,Amtrak Acela/NE Regional,3.2,59,Northeast Corridor
+DCA,EWR,Yes,Amtrak Acela/NE Regional,2.8,49,Northeast Corridor
+DCA,BOS,Yes,Amtrak Acela/NE Regional,6.8,79,Northeast Corridor
+IAD,BWI,Yes,Amtrak Virginia,1.5,25,Northeast Corridor
+IAD,PHL,Yes,Amtrak NE Regional,3.0,45,Northeast Corridor
+IAD,JFK,Yes,Amtrak NE Regional,4.5,59,Northeast Corridor
+IAD,LGA,Yes,Amtrak NE Regional,4.5,59,Northeast Corridor
+IAD,EWR,Yes,Amtrak NE Regional,3.8,49,Northeast Corridor
+IAD,BOS,Yes,Amtrak NE Regional,7.5,85,Northeast Corridor
+ATL,MCO,No,,,,
+DFW,IAH,No,,,,
+ORD,DTW,No,,,,
+CLT,ATL,No,,,,
+PHX,LAX,No,,,,
+DEN,ABQ,No,,,,
+MIA,MCO,No,,,,
+ORD,MSP,No,,,,
+DFW,ATL,No,,,,
+LAX,LAS,No,,,,
+SEA,PDX,No,,,,
+SFO,LAX,No,,,,
